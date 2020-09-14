@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm lesincs</h1>
+<h3 align="center">An android developer from Chengdu</h3>
 
-<!--
-**Lesincs/Lesincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\- 🔭 I’m currently looking for a work
 
-Here are some ideas to get you started:
+\- 🌱 I’m currently learning  [Swift](https://www.swift.com/) and [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\- 📫 How to reach me 
+
+* Telegram：[@Lesincs](https://t.me/Lesincs)
+* Email：Lesincs@923.com
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesincs&show_icons=true" alt="lesincs" /></p>
