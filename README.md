@@ -6,6 +6,6 @@
 \- 📫 How to reach me 
 
 * Telegram：[@Lesincs](https://t.me/Lesincs)
-* Email：Lesincs@923.com
+* Email：Lesincs923@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesincs&show_icons=true" alt="lesincs" /></p>
