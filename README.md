@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lesincs</h1>
 <h3 align="center">An android developer from Chengdu</h3>
 
-\- 🌱 I’m currently learning  [Swift](https://www.swift.com/) and [Kotlin Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
+\- 🌱 I’m currently learning  [Jetpack Compose](https://developer.android.com/jetpack/compose) 
 
 \- 📫 How to reach me 
 
