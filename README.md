@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm lesincs</h1>
-<h3 align="center">An android developer from Chengdu</h3>
-
-\- 🌱 I’m currently learning  [Jetpack Compose](https://developer.android.com/jetpack/compose) 
+<h3 align="center">An android developer from Chengdu Sichuan.</h3>
 
 \- 📫 How to reach me 
 
